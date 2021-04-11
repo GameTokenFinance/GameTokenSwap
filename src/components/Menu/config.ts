@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://gametokenfi.netlify.app',
+    href: 'https://app.gametoken.finance',
   },
   {
     label: 'Trade',
@@ -23,12 +23,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farming',
     icon: 'FarmIcon',
-    href: 'https://gametokenfi.netlify.app',
+    href: 'https://app.gametoken.finance',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://gametokenfi.netlify.app/pools',
+    href: 'https://app.gametoken.finance/pools',
   },
   {
     label: 'GameMarket',
