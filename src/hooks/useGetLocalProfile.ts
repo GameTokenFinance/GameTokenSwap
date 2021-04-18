@@ -3,8 +3,8 @@ import Cookies from 'js-cookie'
 import { useActiveWeb3React } from 'hooks'
 
 const initialState = {
-  profileLink: 'https://gametokenfi.netlify.app/profile',
-  noProfileLink: 'https://gametokenfi.netlify.app/profile',
+  profileLink: 'https://app.gametoken.finance/profile',
+  noProfileLink: 'https://app.gametoken.finance/profile',
 }
 
 /**
