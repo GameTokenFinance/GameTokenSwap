@@ -23,7 +23,7 @@ const config: MenuEntry[] = [
   {
     label: 'Farming',
     icon: 'FarmIcon',
-    href: 'https://app.gametoken.finance',
+    href: 'https://app.gametoken.finance/farms',
   },
   {
     label: 'Pools',
@@ -33,7 +33,7 @@ const config: MenuEntry[] = [
   {
     label: 'GameMarket',
     icon: 'IfoIcon',
-    href: 'https://market.gametoken.finance',
+    href: 'https://gametoken.store',
   },
   {
     label: 'GameDollar',
